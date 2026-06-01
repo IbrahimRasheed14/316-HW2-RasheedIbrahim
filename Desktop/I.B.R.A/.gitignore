@@ -1,5 +1,17 @@
-.env
+# Python
 venv/
 __pycache__/
 *.pyc
+*.pyo
+.env
+
+# Database
+data/ibra.db
 data/raw/
+data/processed/
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
